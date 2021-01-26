@@ -10,12 +10,12 @@ This project is a starting point for a Flutter application.
     <table>
         <tr>
             <td style="text-align: center">
-                    <img src="https://user-images.githubusercontent.com/4372065/103433804-b9ce4e00-4c1d-11eb-92e9-6ca2d3fb32da.png"/>
+                    <img src="https://user-images.githubusercontent.com/4372065/105834909-180a0900-5ff1-11eb-917d-bdc4391431e4.png"/>
             </td>            
         </tr>
          <tr>
                     <td style="text-align: center">
-                            <img src="https://user-images.githubusercontent.com/4372065/103433804-b9ce4e00-4c1d-11eb-92e9-6ca2d3fb32da.png"/>
+                            <img src="https://user-images.githubusercontent.com/4372065/105834924-1f311700-5ff1-11eb-83ae-1004c59a4d3c.png"/>
                     </td>            
                 </tr>
   </table>
