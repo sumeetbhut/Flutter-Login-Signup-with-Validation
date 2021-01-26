@@ -10,13 +10,8 @@ This project is a starting point for a Flutter application.
     <table>
         <tr>
             <td style="text-align: center">
-                    <img src="https://user-images.githubusercontent.com/4372065/105834909-180a0900-5ff1-11eb-917d-bdc4391431e4.png"/>
+                    <img src="https://user-images.githubusercontent.com/4372065/105835604-0412d700-5ff2-11eb-92c2-9ac3fbd9e4e2.png"/>
             </td>            
         </tr>
-         <tr>
-                    <td style="text-align: center">
-                            <img src="https://user-images.githubusercontent.com/4372065/105834924-1f311700-5ff1-11eb-83ae-1004c59a4d3c.png"/>
-                    </td>            
-                </tr>
   </table>
   </div>
